@@ -1,5 +1,3 @@
-https://github.com/wvchallenges/se-challenge-payroll
-
 ## Project Description
 
 Imagine that this is the early days of Wave's history, and that we are prototyping a new payroll system API. A front end (that hasn't been developed yet, but will likely be a single page application) is going to use our API to achieve two goals:
