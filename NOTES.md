@@ -21,8 +21,8 @@
 
 ---
 
-- Setup routes
-- Create controllers
+- Setup routes in `routes.rb`
+- Create controllers manually
   - `app/controllers/api/v1/time_reports_controller.rb`
   - `app/controllers/api/v1/time_report_details_controller.rb`
 - Implement controllers
